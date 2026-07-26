@@ -85,6 +85,6 @@ A web app that instantly generates a QR code for any URL entered by the user.
 
 **Always learning, always building — let's create something great together! 🚀**
 
-<img src="https://raw.githubusercontent.com/annietechsde/annietechsde/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/annietechsde/annietechsde/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
